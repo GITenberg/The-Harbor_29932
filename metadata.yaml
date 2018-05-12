@@ -1,0 +1,35 @@
+_repo: The-Harbor_29932
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 29932-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Poole, Ernest
+    birthdate: 1880
+    deathdate: 1950
+    gutenberg_agent_id: '5500'
+    url: http://www.gutenberg.org/2009/agents/5500
+    wikipedia: http://en.wikipedia.org/wiki/Ernest_Poole
+description: '"For Billy, an aspiring writer struggling to reconcile his sympathy
+  for the workingman with his middle-class allegiance to capitalist progress, the
+  New York waterfront becomes a window on the world. There he bears witness to the
+  explosive tensions between labor and capital, falling under the influence of two
+  divergent mentors: Dillon, an accomplished engineer and friend of the establishment;
+  and Kramer, who has forsaken every comfort to live in the slums and preach the gospel
+  of unionism. When the Harbor erupts in violence, Billy must choose for himself which
+  path to follow."--P. [4] of cover.'
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2009-09-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29932'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PS'
+title: The Harbor
+url: http://www.gutenberg.org/ebooks/29932
